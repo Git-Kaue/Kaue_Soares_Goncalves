@@ -15,60 +15,30 @@ Select * From Join
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://github.com/seuperfil)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/seuperfil)
 
-
-## 🚀 DevOps **Nível:** **Iniciante**
-
-| Docker    | Kubernetes |  Azure  |
-|:--------: |:----------:|:-------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="75"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="60"> |
-
-
 ## 🚀 **DevOps** Nível: Iniciante
 
-<div style="background-color: rgba(255, 255, 255, 0.22); width: 150px; border-radius: 18px; box-shadow: 0 4px 10px rgba(235, 10, 10, 0.1); text-align: center;">
-    <h2 style="color: #111; margin-bottom: 20px;">Azure</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  width="60">
-    <h2 style="color: #111; margin-bottom: 20px;">Azure</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  width="60">
-</div>
+<!-- CARD 1 -->
+<div style="display: flex; justify-content: flex-start;">
 
 
-## 🚀 DevOps **Nível: ** Iniciante
-
-<div style="display: flex; justify-content: space-between;">
-<div>
-        <h3>Azure 1</h3>
-        <p>Conteúdo da primeira coluna</p>
-</div>
-
-
+<!-- CARD 2 -->
 <div style="background-color: rgba(255, 255, 255, 0.04); width: 150px; border-radius: 18px; box-shadow: 0 4px 10px rgba(235, 10, 10, 0.1); text-align: center;">
-        <h3>Docker 2</h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="100"> 
+        <h3>Kubernetes</h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50">
 </div>
 
-<div>
-        <h3>Kubernetes 3</h3>
-        <p>Conteúdo da segunda coluna</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- CARD 3 -->
+<div style="background-color: rgba(255, 255, 255, 0.04); width: 150px; border-radius: 18px; box-shadow: 0 4px 10px rgba(235, 10, 10, 0.1); text-align: center;">
+        <h3>Azure</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50">
 </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- CARD 2 -->
+<div style="background-color: rgba(255, 255, 255, 0.04); width: 150px; border-radius: 18px; box-shadow: 0 4px 10px rgba(235, 10, 10, 0.1); text-align: center;">
+        <h3>Docker</h3>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"> 
 </div>
-
-
-
-
-
-## 🚀 DevOps **Nível: ** Iniciante
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h3>Azure 1</h3>
-    <p>Conteúdo da primeira coluna</p>
-  </div>
-  <div>
-    <h3>Docker 2</h3>
-    <p>Conteúdo da segunda coluna</p>
-  </div>
-  <div>
-    <h3>Kubernetes 3</h3>
-    <p>Conteúdo da segunda coluna</p>
-  </div>
 </div>
