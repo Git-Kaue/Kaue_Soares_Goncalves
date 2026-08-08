@@ -15,6 +15,13 @@ Select * From Join
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://github.com/seuperfil)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/seuperfil)
 
+
+| Docker | Kubernetes | Azure |
+|:--------:|:---------------------------------------:|:-------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45"> |
+
+
+
 ## 🚀 **DevOps** Nível: Iniciante
 
 <!-- CARD 1 -->
